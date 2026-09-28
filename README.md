@@ -25,3 +25,14 @@ Here are some ideas to get you started:
 - 🐍 Python | SQL | Power BI
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/alfin-muharram97) 
 
+## Skills
+
+<img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" >
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+
